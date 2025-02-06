@@ -1,0 +1,18 @@
+[
+    {
+        "role": "user",
+        "content": "What are the average salaries for each job title?"
+    },
+    {
+        "role": "assistant",
+        "content": "job_title,AVG(salary_in_usd)\r\n3D Computer Vision Researcher,21352.25\r\nAI Developer,136666.0909090909\r\nAI Programmer,55000.0\r\nAI Scientist,110120.875\r\nAnalytics Engineer,152368.63106796116\r\n"
+    },
+    {
+        "role": "user",
+        "content": "For the Analytics Enginner whats the min,max salary?"
+    },
+    {
+        "role": "assistant",
+        "content": "min_salary,max_salary\r\n7500,289800\r\n"
+    }
+]
